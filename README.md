@@ -1,2 +1,4 @@
 # TECHIN510
-Labs for MSTI's TECHIN 510
+Labs for MSTI's TECHIN 510 - Programming for Digital and Physical User Interfaces
+
+This course enables students to build digital and physical user interfaces to bring their ideas to life. Students will first enhance their fundamental programming skills and learn web programming languages to develop various browser-based interactive applications. Next they will learn to process events and continuous data streams from different sensors, including touchscreens, microphones, cameras, motion sensors, and wearables. They will learn different UI programming patterns and modern tools and services that support UI development. They will also practice intuitive UI design principles. Through a sequence of assignments they will produce an interactive system that fully integrates all digital and physical interfaces practiced in the course. They will learn best practices for evaluating digital and physical UIs as well as for presenting interactive systems.
